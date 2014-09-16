@@ -1,0 +1,10 @@
+# Site settings
+title: Emaline & Chloe
+description: > # this means to ignore newlines until "baseurl:"
+  This is the archive for emalineandchloe.us to preserve the documentation
+  of their birth and first year for posterity.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "emalineandchloe.us" # the base hostname & protocol for your site
+paginate: 10
+# Build settings
+markdown: kramdown
